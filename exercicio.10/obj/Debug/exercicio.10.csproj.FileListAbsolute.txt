@@ -1,0 +1,7 @@
+C:\Users\facec.lab04\source\repos\aula.23.03\exercicio.10\obj\Debug\exercicio.10.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\aula.23.03\exercicio.10\obj\Debug\exercicio.10.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\aula.23.03\exercicio.10\bin\Debug\exercicio.10.exe.config
+C:\Users\facec.lab04\source\repos\aula.23.03\exercicio.10\bin\Debug\exercicio.10.exe
+C:\Users\facec.lab04\source\repos\aula.23.03\exercicio.10\bin\Debug\exercicio.10.pdb
+C:\Users\facec.lab04\source\repos\aula.23.03\exercicio.10\obj\Debug\exercicio.10.exe
+C:\Users\facec.lab04\source\repos\aula.23.03\exercicio.10\obj\Debug\exercicio.10.pdb
